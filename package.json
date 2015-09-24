@@ -1,0 +1,30 @@
+{
+  "name": "nest",
+  "version": "0.0.1",
+  "description": "A Node 4 REST API boilerplate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irikuo/nest.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "rest",
+    "restful"
+  ],
+  "author": "Victor Vila Ases <irikuo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irikuo/nest/issues"
+  },
+  "homepage": "https://github.com/irikuo/nest#readme",
+  "dependencies": {
+    "good": "^6.4.0",
+    "good-console": "^5.1.0",
+    "hapi": "^10.0.1"
+  }
+}
